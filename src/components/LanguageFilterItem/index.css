@@ -1,0 +1,13 @@
+.language-button {
+  color: #1e293b;
+  font-family: Roboto;
+  font-size: 5vh;
+}
+
+.selected-button {
+  color: #0284c7;
+  border-color: #0284c7;
+  border-radius: 10px;
+  border-width: 5px;
+  font-family: Roboto;
+}

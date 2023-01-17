@@ -1,0 +1,18 @@
+.bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.heading {
+  text-align: center;
+  font-family: Lobster;
+  font-size: 8vh;
+}
+
+.language-list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
